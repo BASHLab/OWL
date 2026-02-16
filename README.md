@@ -10,7 +10,7 @@
 <h5 aling="center"> <p align="center" style="color:#FF0000">Accepted at International Conference on Learning Representations (ICLR), 2026 </p></h5>
 <h5 align="center">
     Project Page:
-    <a href="https://bashlab.github.io/raven_project/" style="color:#825987">
+    <a href="https://bashlab.github.io/owl_project/" style="color:#825987">
         https://bashlab.github.io/owl_project/
     </a>
 </h5>
