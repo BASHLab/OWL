@@ -3,7 +3,7 @@
 <p>
 
 <h3 align="center">
-    <a href="https://arxiv.org/pdf/2505.17114" style="color:#825987">
+    <a href="https://arxiv.org/pdf/2509.26140" style="color:#825987">
         OWL: GEOMETRY-AWARE SPATIAL REASONING FOR AUDIO LARGE LANGUAGE MODELS
     </a>
 </h3>
