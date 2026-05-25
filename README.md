@@ -58,7 +58,7 @@ pip install  -e .
 
 [BiDepth](https://huggingface.co/datasets/BASH-Lab/BiDepth)
 
-## 🍀 Model Zoo (coming soon)
+## 🍀 Model Zoo
 | Model Name     | 
 |:----------------|
 | [SAGE](https://huggingface.co/BASH-Lab/OWL/tree/main/SAGE)| 
