@@ -56,16 +56,16 @@ pip install  -e .
 
 ## 📁 **BiDepth** Dataset
 
-[Coming Soon]()
+[BiDepth](https://huggingface.co/datasets/BASH-Lab/BiDepth)
 
 ## 🍀 Model Zoo (coming soon)
 | Model Name     | 
 |:----------------|
-| [SAGE]()| 
-| [OWL-LLaMA2-7B]() |
-| [OWL-LLaMA3.2-3B]() | 
-| [OWL-Qwen2.5-7B-Instruct]() |  
-| [OWL-LLaMA2.5-3B]() |  
+| [SAGE](https://huggingface.co/BASH-Lab/OWL/tree/main/SAGE)| 
+| [OWL-LLaMA2-7B](https://huggingface.co/BASH-Lab/OWL/tree/main/Llama-2-7b) |
+| [OWL-LLaMA3.2-3B](https://huggingface.co/BASH-Lab/OWL/tree/main/Llama-3.2-3B) | 
+| [OWL-Qwen2.5-7B-Instruct](https://huggingface.co/BASH-Lab/OWL/tree/main/Qwen2.5-7B-Instruct) |  
+| [OWL-LLaMA2.5-3B](https://huggingface.co/BASH-Lab/OWL/tree/main/Qwen2.5-3B) |  
 
 ## 👍 Acknowledgement
 The codebase of OWL is adapted from [**SLAM-LLM**](https://github.com/X-LANCE/SLAM-LLM). We are also grateful for their contribution.
